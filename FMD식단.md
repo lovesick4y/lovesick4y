@@ -18,6 +18,16 @@
 5. 된장소스를 곁들인다.
 - 된장소스는 쌈밥을 먹을 때도 활용할 수 있다.
 
+## 후기
+
+```
+  좋았다.
+```
+
+## Ref
+- [먹는 단식 FMD](https://book.naver.com/bookdb/book_detail.nhn?bid=15303766)
+
+
 ## 할일 샘플
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740

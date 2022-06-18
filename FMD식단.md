@@ -15,3 +15,14 @@
 5. 된장소스를 곁들인다.
 - 된장소스는 쌈밥을 먹을 때도 활용할 수 있다.
 
+## 할일 샘플
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+## 표 샘플
+
+### <메뉴와 영양 성분>
+| | 메뉴 | 총칼로리 | 탄수화물 | 단백질 | 지방 |
+| --- | --- | --- | --- | --- | --- |
+| 식사1 | 낫토비빔밥과 된장소스 | 578 | 191 | 95 | 312 |

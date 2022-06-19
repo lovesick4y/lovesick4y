@@ -1,7 +1,3 @@
-# FMD식단
-* [낫토비빔밥과 된장소스](#낫토비빔밥과-된장소스)
-* [바나나고구마스무디](#바나나고구마스무디)
-
 ## Ref
 - [먹는 단식 FMD](https://book.naver.com/bookdb/book_detail.nhn?bid=15303766)
 
